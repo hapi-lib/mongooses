@@ -1,0 +1,2 @@
+# mongooses
+hapi-mongooses
