@@ -1,5 +1,5 @@
 {
-  "name": "mongooses",
+  "name": "@hapi-lib/mongooses",
   "version": "1.0.0",
   "description": "一款用于hapi中多mongoose连接的hapi插件",
   "main": "index.js",
